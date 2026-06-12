@@ -5,7 +5,7 @@ body{
 .hero{
     height: 90vh;
     background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
-    url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9c/b2/d4/margherita.jpg?w=1400&h=800&s=1");
+    url("lalal.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -21,8 +21,4 @@ body{
 .btn-warning{
     padding: 10px 25px;
     font-weight: bold;
-}
-
-input{
-    box-shadow: none !important;
 }
