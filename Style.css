@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.hero{
+    height: 90vh;
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
+    url("https://images.unsplash.com/photo-1513104890138-7c749659a591");
+    background-size: cover;
+    background-position: center;
+}
+
+.hero p{
+    font-size: 20px;
+}
+
+.modal-content{
+    border-radius: 15px;
+}
+
+.btn-warning{
+    padding: 10px 25px;
+    font-weight: bold;
+}
+
+input{
+    box-shadow: none !important;
+}
